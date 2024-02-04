@@ -4,6 +4,14 @@
 ### 2. Background
 The Boston Housing dataset comprises various socio-economic attributes associated with housing in Boston. These attributes include factors such as crime rates, air quality, and access to highways, among others. The dataset is commonly used in predictive modeling tasks, particularly for estimating median house prices. By analyzing the relationships between these features and housing prices, machine learning algorithms can be trained to make accurate predictions, aiding in real estate valuation and urban planning efforts.
 
+#### Why does it matter?
+
+It helps users understand the significance of each piece of information, guiding them in focusing on the most relevant factors for their analysis or prediction tasks.
+
+#### What are your research questions?
+
+* Can we predict the median value of owner-occupied homes based on attributes such as crime rate, number of rooms, and proximity to highways?
+  
 ### 3. Data
 Data Source: Kaggle
 https://www.kaggle.com/datasets/shubhammeshram579/house/code
@@ -28,3 +36,5 @@ Attributes:
 * LSTAT: % lower status of the population.
 * MEDV : Median value of owner-occupied homes in $1000's.
 
+Target variable: The numerical column named 'MEDV' in the dataframe is our target variable, which represents the median value of owner-occupied homes in $1000's.
+Features/Predictors: Other attributes like crime rate, average number of rooms, etc.
