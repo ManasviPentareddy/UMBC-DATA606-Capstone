@@ -8,9 +8,9 @@ The Boston Housing dataset comprises various socio-economic attributes associate
 Data Source: Kaggle
 https://www.kaggle.com/datasets/shubhammeshram579/house/code
 
-*Size of the dataset is 35.38(509 rows and 14 columns, and includes data on various features of residential homes in the Boston area)
-*Each row in the dataset likely corresponds to a specific property or housing unit in Boston. Various attributes, such as crime rate, average number of rooms, and proximity to employment centers, are recorded for each property.
-*The dataset includes a range of attributes that describe different aspects of the properties, including crime rate (CRIM), zoning classification (ZN), proportion of non-retail business acres (INDUS), and more.
+* Size of the dataset is 35.38(509 rows and 14 columns, and includes data on various features of residential homes in the Boston area)
+* Each row in the dataset likely corresponds to a specific property or housing unit in Boston. Various attributes, such as crime rate, average number of rooms, and proximity to employment centers, are recorded for each property.
+* The dataset includes a range of attributes that describe different aspects of the properties, including crime rate (CRIM), zoning classification (ZN), proportion of non-retail business acres (INDUS), and more.
 
 Attributes:
 * CRIM : per capita crime rate by town.
