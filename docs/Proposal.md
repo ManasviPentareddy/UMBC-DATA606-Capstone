@@ -16,7 +16,7 @@ It helps users understand the significance of each piece of information, guiding
   
 ### 3. Data
 Data Source: Kaggle
-https://www.kaggle.com/datasets/shubhammeshram579/house/code
+https://www.kaggle.com/datasets/shubhammeshram579/house/data
 
 * Size of the dataset is 35.38(509 rows and 14 columns, and includes data on various features of residential homes in the Boston area)
 * Each row in the dataset likely corresponds to a specific property or housing unit in Boston. Various attributes, such as crime rate, average number of rooms, and proximity to employment centers, are recorded for each property.
