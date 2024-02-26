@@ -10,6 +10,8 @@ It helps users understand the significance of each piece of information, guiding
 
 #### What are your research questions?
 
+* What factors influence housing prices in Boston suburbs?
+
 * Can we predict the median value of owner-occupied homes based on attributes such as crime rate, number of rooms, and proximity to highways?
   
 ### 3. Data
