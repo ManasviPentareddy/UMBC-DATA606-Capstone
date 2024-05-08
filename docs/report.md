@@ -14,3 +14,8 @@ Why does it matter?
 What are your research questions?
 
 # 3. Data
+Describe the datasets you are using to answer your research questions[.
+
+Data sources : 
+Data size : 
+Data shape (number of rows and columns): 
