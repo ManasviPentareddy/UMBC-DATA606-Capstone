@@ -1,11 +1,17 @@
 # 1. House Price Prediction in Boston
+
 Author - Manasvi Pentareddy
+
 Semester - Spring'24
+
 Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
-GitHub profile : 
-LinkedIn progile : 
-PowerPoint :
-YouTube video : 
+
+GitHub profile : https://github.com/ManasviPentareddy/UMBC-DATA606-Capstone
+
+LinkedIn progile : www.linkedin.com/in/pentareddy-manasvi-8587a1247
+
+YouTube video : https://youtu.be/2dikIx0ZaRQ
+
 # 2. Background
 
 
@@ -127,7 +133,6 @@ Generally, ensemble methods (Random Forest, Extra Trees, Gradient Boosting) outp
 # 6. Application of the Trained Models
 Our web application aims to provide an intuitive interface for users to predict median house prices in Boston based on various features. Leveraging the Streamlit framework, we developed an interactive app that allows users to input feature values such as crime rate, proportion of residential land, and more. The application utilizes a trained machine learning model, specifically an ExtraTreesRegressor, to make predictions. Additionally, we enhanced the visual appeal of the app by incorporating a background image related to the theme of house price prediction. By deploying the application, we've made it accessible to users, enabling them to obtain accurate predictions and gain insights into the Boston housing market.
 
-<img width="5253" alt="image" src="https://github.com/ManasviPentareddy/UMBC-DATA606-Capstone/assets/157778795/38adbecc-3e90-4a43-a8c9-1ef66e8093b0">
 
 <img width="759" alt="image" src="https://github.com/ManasviPentareddy/UMBC-DATA606-Capstone/assets/157778795/9a6e75a9-2651-4f78-b7f5-5f5c7a004025">
 
