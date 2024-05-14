@@ -103,6 +103,43 @@ Bar Heights: Each bar's height represents the mean median house price for proper
 
 This horizontal box plot visualizes the distribution of feature values in the dataset, excluding the 'CHAS' column. It assists in identifying potential outliers and understanding the spread and central tendency of each feature.
 
+# 5.MODEL TRAINING
+## i.Linear Regression
+<img width="403" alt="image" src="https://github.com/ManasviPentareddy/UMBC-DATA606-Capstone/assets/157778795/a0acf394-7d36-47fc-a5ad-05802cc18c82">
+
+## ii.Decision Tree Regression
+<img width="257" alt="image" src="https://github.com/ManasviPentareddy/UMBC-DATA606-Capstone/assets/157778795/cb75a6e6-5216-49a9-ab1a-f5a573032d52">
+
+## iii.Random Forest Regression
+<img width="257" alt="image" src="https://github.com/ManasviPentareddy/UMBC-DATA606-Capstone/assets/157778795/d17ae68a-3560-46dd-a07d-7637a8464022">
+
+## iv.Extra Trees Regression
+<img width="257" alt="image" src="https://github.com/ManasviPentareddy/UMBC-DATA606-Capstone/assets/157778795/6fbd7b02-35d1-46f7-aa6c-c9ac7d29e8f5">
+
+## v.Gradient Boost Regression
+<img width="257" alt="image" src="https://github.com/ManasviPentareddy/UMBC-DATA606-Capstone/assets/157778795/7cf55297-ec0d-492b-a4ad-b4cb2650d90d">
+
+Extra Trees Regression achieved the lowest Mean Squared Error (MSE), Cross-Validation (CV) Score and R^2 Score, indicating superior performance in prediction accuracy and generalization followed by gradient boosting, Decision tree, Random Forest, linear regression models.
+
+Generally, ensemble methods (Random Forest, Extra Trees, Gradient Boosting) outperformed traditional linear regression and decision tree models, highlighting the importance of leveraging ensemble techniques for improved predictive performance.
+
+
+# 6. Application of the Trained Models
+Our web application aims to provide an intuitive interface for users to predict median house prices in Boston based on various features. Leveraging the Streamlit framework, we developed an interactive app that allows users to input feature values such as crime rate, proportion of residential land, and more. The application utilizes a trained machine learning model, specifically an ExtraTreesRegressor, to make predictions. Additionally, we enhanced the visual appeal of the app by incorporating a background image related to the theme of house price prediction. By deploying the application, we've made it accessible to users, enabling them to obtain accurate predictions and gain insights into the Boston housing market.
+
+<img width="5253" alt="image" src="https://github.com/ManasviPentareddy/UMBC-DATA606-Capstone/assets/157778795/38adbecc-3e90-4a43-a8c9-1ef66e8093b0">
+
+<img width="759" alt="image" src="https://github.com/ManasviPentareddy/UMBC-DATA606-Capstone/assets/157778795/9a6e75a9-2651-4f78-b7f5-5f5c7a004025">
+
+<img width="759" alt="image" src="https://github.com/ManasviPentareddy/UMBC-DATA606-Capstone/assets/157778795/87c6a394-38b8-44ba-b62f-23ae32c13eb8">
+
+# 7. CONCLUSION
+The project revealed that ensemble methods such as Random Forest, Extra Trees, and Gradient Boosting consistently outperformed traditional linear regression and decision tree models in predicting housing prices. Additionally, feature engineering, model selection, and hyperparameter tuning played crucial roles in optimizing model performance, underscoring the significance of a comprehensive approach to regression analysis.
+
+# 8.Future Scope
+For future work, incorporating more advanced feature engineering techniques, exploring different ensemble methods, and conducting thorough sensitivity analysis on hyperparameters could further enhance predictive accuracy. Additionally, integrating domain knowledge and exploring alternative data sources may offer valuable insights for improving model robustness and interpretability in real-world applications.
+
+
 
 
 
