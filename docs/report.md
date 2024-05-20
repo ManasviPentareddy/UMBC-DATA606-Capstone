@@ -12,6 +12,8 @@ LinkedIn progile : www.linkedin.com/in/pentareddy-manasvi-8587a1247
 
 YouTube video : https://youtu.be/2dikIx0ZaRQ
 
+PPT Link : https://github.com/ManasviPentareddy/UMBC-DATA606-Capstone/blob/main/docs/Capstone%20606.pptx
+
 # 2. Background
 
 
