@@ -18,13 +18,15 @@ PPT Link : https://github.com/ManasviPentareddy/UMBC-DATA606-Capstone/blob/main/
 
 
 What is it about?
+
 The Boston Housing dataset comprises various socio-economic attributes associated with housing in Boston. These attributes include factors such as crime rates, air quality, and access to highways, among others. The dataset is commonly used in predictive modeling tasks, particularly for estimating median house prices. By analyzing the relationships between these features and housing prices, machine learning algorithms can be trained to make accurate predictions, aiding in real estate valuation and urban planning efforts.
 
 Why does it matter?
+
 It helps users understand the significance of each piece of information, guiding them in focusing on the most relevant factors for their analysis or prediction tasks.
 
 What are your research questions?
-What factors influence housing prices in Boston suburbs?
+
 
 Can we predict the median value of owner-occupied homes based on attributes such as crime rate, number of rooms, and proximity to highways?
 
